@@ -7,7 +7,7 @@
     <h1 align="center">Pulsecron</h1>
 </p>
   <p align="center">
-      <em>Event-driven cron job scheduler management infrastructure</em>
+      <em>Serverless cron job scheduler infrastructure</em>
     <br />
     <a href="https://www.pulsecron.com"><strong>Learn more »</strong></a>
     <br />
