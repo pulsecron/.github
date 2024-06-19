@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.pulsecron.com">
-  <img src="./pulse.png" width="100" alt="project-logo">
+  <img src="../pulse.png" width="100" alt="project-logo">
   </a>
 </p>
 <p align="center">
